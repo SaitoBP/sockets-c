@@ -1,0 +1,7 @@
+# Ignore build files from 'simple_example'
+/simple_example/build/server
+/simple_example/build/client
+
+# Ignore build files form 'one_to_one_chat'
+/one_to_one_chat/build/server
+/one_to_one_chat/build/client
